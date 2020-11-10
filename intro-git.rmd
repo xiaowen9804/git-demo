@@ -4,13 +4,13 @@ output:
   html_document
 ---
 
-# intro to git
+# intro
 this document is the intro to git
 
 ## common commands
-git init
-git log
-git status # any changes; new file; what are the changes
-git add -A # add most recent changes
-git commit -m "initial commit" # commit and with message
-git push -u origin master # "origin" is the name of repo on github; could be other name # "master" is the name of branch you are pushing
+git init \
+git log \
+git status # any changes; new file; what are the changes \
+git add -A # add most recent changes \
+git commit -m "initial commit" # commit and with message \
+git push -u origin master # "origin" is the name of repo on github; could be other name # "master" is the name of branch you are pushing \
