@@ -1,0 +1,7 @@
+---
+title: "intro to git"
+output: 
+  html_output:
+---
+
+# intro to git
